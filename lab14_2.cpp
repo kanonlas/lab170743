@@ -21,3 +21,12 @@ int main()
     }while(s != 0 || x != 0 || y != 0);
     return 0;
 }
+void updateImage(bool [][M],int s,int x,int y){
+   
+   int i;
+   int j;
+   
+   while( sqrt((pow(i - x), 2) - pow(j - y, 2)) <= s-1){
+    
+   }
+}
